@@ -1,0 +1,8 @@
+inference ->predict.py -> predict_cases function -> process_multitheded function ?
+which returns no element
+
+
+for preprocessed in preprocessing: endless loop since process_multithreaded returns no element ???
+
+the problem is in predict case
+
